@@ -3,6 +3,10 @@ Floodlight OpenFlow Controller (OSS)
 
 Attention!
 ----------
+This is an updated version of floodlight which I decided to update to allow ease of access for my school project. I updated netty and libthrifty in the /lib folder and updated the build.xml only.
+
+Attention!
+----------
 
 As of August 2018, the Floodlight mailing list has moved to [floodlight@groups.io](mailto:floodlight@groups.io)! Archives and the new group home page [can be found here](https://groups.io/g/floodlight). Please see [Documentation and Support](#Documentation-and-Support) below for up-to-date support information.
 
